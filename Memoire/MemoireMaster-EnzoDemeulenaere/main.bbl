@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{W3C05}
+W.~{World Wide Web Consortium}, ``{W3C} -- {About SVG}.'' Available at
+  \url{http://www.w3.org/TR/SVG/intro.html/}, Apr. 2005.
+\newblock (Último acesso em 12/05/2019).
+
+\bibitem{Lipsum08}
+Lipsum, ``Lorem ipsum.'' Available at \url{http://www.lipsum.com/}, 2008.
+\newblock (Último acesso em 12/05/2019).
+
+\bibitem{Li00}
+Q.~Li, {\em Delay Characterization and Performance Control of Wide-area
+  Networks}.
+\newblock PhD thesis, Univ. of Delaware, Newark, May 2000.
+
+\bibitem{Candy92}
+J.~C. Candy and G.~C. Temes, eds., {\em Oversampling Delta-Sigma Data
+  Converters Theory, Design and Simulation}.
+\newblock New York: {IEEE} Press., 1992.
+
+\bibitem{Motorola96}
+Motorola, {\em {FLEXChip} Signal Processor ({MC68175/D})}, 1996.
+
+\bibitem{Jain87}
+R.~Jain, K.~K. Ramakrishnan, and D.~M. Chiu, ``Congestion avoidance in computer
+  networks with a connectionless network layer,'' Tech. Rep. DEC-TR-506,
+  Digital Equipment Corporation, MA, Aug. 1987.
+
+\bibitem{Delorme95}
+F.~Delorme {\em et~al.}, ``Butt-jointed {DBR} laser with 15 {nm} tunability
+  grown in three {MOVPE} steps,'' {\em Electron. Lett.}, vol.~31, no.~15,
+  pp.~1244--1245, 1995.
+
+\end{thebibliography}
